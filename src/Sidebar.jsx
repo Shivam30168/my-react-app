@@ -22,38 +22,38 @@ function Sidebar({ openSidebarToggle, OpenSidebar }) {
 
       <ul className='sidebar-list'>
         <li className='sidebar-list-item'>
-          <a href="">
+          <a href="/some-link">
             <BsGrid1X2Fill className='icon' /> Dashboard
           </a>
         </li>
         <li className='sidebar-list-item'>
-          <a href="">
+          <a href="/some-link">
             <BsFillArchiveFill className='icon' /> Products
           </a>
         </li>
         <li className='sidebar-list-item'>
-          <a href="">
+          <a href="/some-link">
             <BsPeopleFill className='icon' /> Customers
           </a>
         </li>
         <li className='sidebar-list-item'>
-          <a href="">
+          <a href="/some-link">
             <BsCurrencyDollar className='icon' /> Income
           </a>
         </li>
         <li className='sidebar-list-item'>
-          <a href="">
+          <a href="/some-link">
             <BsMenuButtonWideFill className='icon' /> Promote
           </a>
         </li>
         <li className='sidebar-list-item'>
-          <a href="">
+          <a href="/some-link">
             <BsFillInfoCircleFill className='icon' /> Help
           </a>
         </li>
       </ul>
       <li className='sidebar-list-item'>
-          <a href="">
+          <a href="/some-link">
             <BsFillFilePersonFill className='icon' /> Evano(Project Manager)
           </a>
         </li>
